@@ -1,2 +1,3 @@
 # Data-Analytics
-Handling data, Data cleaning, Data exploration, Data visualization...
+importing and using Numpy, Pandas, matplotlib
+
